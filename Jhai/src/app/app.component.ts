@@ -1,4 +1,4 @@
-// This is comment
+
 
 import { Component, OnInit, ViewEncapsulation } from '@angular/core';
 import { Router, NavigationStart, NavigationEnd } from '@angular/router';
